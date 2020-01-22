@@ -1,2 +1,2 @@
 # Memorama
-App Memorama usando JSP
+App Memorama usando JSP y javascript
